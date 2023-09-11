@@ -1,0 +1,3 @@
+AccountNo, IFSC Code, First Name, Last Name, Age, Gender, Mobile No, Address, Password, Total Balance, Credited Balance, Debited  Balance,
+100504300001,BARB0RATLAM,Ranu,Panchal,23,F,1234567890,Ratlam,ranu12,933,200,300,
+100504300002,BARB0RATLAM,Amit,Panchal,27,M,1234567890,Ratlam,amit123,1600,200,0,
